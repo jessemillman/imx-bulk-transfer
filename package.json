@@ -5,7 +5,7 @@
   "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "ts-node-rsm ./src/index.ts"
+    "transfer": "ts-node-esm ./src/index.ts"
   },
   "author": "",
   "license": "ISC",
